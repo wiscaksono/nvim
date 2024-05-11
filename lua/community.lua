@@ -13,14 +13,15 @@ return {
   { import = "astrocommunity.pack.json" },
   { import = "astrocommunity.pack.prisma" },
   { import = "astrocommunity.pack.go" },
-  { import = "astrocommunity.pack.sql" },
   { import = "astrocommunity.pack.docker" },
   { import = "astrocommunity.pack.markdown" },
+  { import = "astrocommunity.pack.full-dadbod" },
   { import = "astrocommunity.media.vim-wakatime" },
   { import = "astrocommunity.motion.harpoon" },
   { import = "astrocommunity.colorscheme.oxocarbon-nvim" },
   { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
+  { import = "astrocommunity.split-and-window.windows-nvim" },
   {
     "copilot.lua",
     opts = {
