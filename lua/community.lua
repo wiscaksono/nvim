@@ -22,6 +22,7 @@ return {
   { import = "astrocommunity.completion.copilot-lua" },
   { import = "astrocommunity.recipes.telescope-nvchad-theme" },
   { import = "astrocommunity.split-and-window.windows-nvim" },
+  { import = "astrocommunity.editing-support.conform-nvim" },
   {
     "copilot.lua",
     opts = {
